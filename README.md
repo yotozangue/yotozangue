@@ -22,7 +22,7 @@ I'm **Allan Ferreira**, welcome to the my GitHub profile!
   
   <div align="center" style="display: flex; align-items: center;"><br>
       <img src="https://i.ibb.co/q0kh4FH/eu-300.png" width="200px"> 
-    <p>this one on top it's meowowo</p>
+    <p>this one on top it's me owowo</p>
     <p>i'm new in this world</p>
   </div>
   
