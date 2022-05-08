@@ -27,5 +27,5 @@ I'm **Allan Ferreira**, welcome to the my GitHub profile!
   </div>
   
 - 🔭 I’m currently studying on Etec de Guaianazes
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Angular (and I'm loving)
 - 📫 How to reach me: allandelima64@hotmail.com
