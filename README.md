@@ -2,35 +2,60 @@
 
 ### Who is Allan?
 
-Allan is 16 years old and is a just another programming student. He likes to learn new technologies. He is also very fond of music.
+Allan Lima, 18, is a programming student with a love for learning new technologies and music. He has expertise in Linux systems, enjoys working with servers and networks, and is currently managing the **Reintegra** project. Allan is available for freelance contracts and eager to take on new opportunities.
 
-```ts
-  export const bestAllan🦕 = {
-    firstname: Allan,
-    lastname: Lima,
-    username: yotozangue,
-    email: [
-      'allandelima64@hotmail.com',
-      'allan.lima42@etec.sp.gov.br',
-    ]
-  }
+And yes, that's me, the boy in the picture.
+
+### Contact Email
+```txt
+allandelima@proton.me
 ```
-<div align="center">
 
-  <a href="https://github.com/yotozangue">
 
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yotozangue&layout=compact&langs_count=8&theme=github_dark"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=yotozangue&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<h2>
+    <img src="https://imgur.com/mBuUeCz.png" width="50"> Hard Skills
+</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,nodejs,php,arduino,cpp,ts,discordjs,mysql,mongo,prisma" />
   </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,androidstudio,laravel,sass" />
+  </a>
+</p>
 
-</div>
 
-##
+<h2>
+    <img src="https://imgur.com/2jXCZaT.png" width="50"> Soft Skills
+</h2>
+
+<ul>
+  <li>Project management</li>
+  <li>People management</li>
+  <li>Problem-solving</li>
+</ul>
+
+<h2>
+    <img src="https://imgur.com/yMdxKDv.png" width="50"> Work Tools
+</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=notion,discord,vscode,neovim,bash,git,github,eclipse,linux,arch" />
+  </a>
+</p>
+
+
+<h2>
+    <img src="https://imgur.com/tlCnTTl.png" width="50"> Contact Me
+</h2>
+
 
 <div align="center">
   <a
     target="_blank"
-    href="https://www.linkedin.com/in/allan-ferreira-de-lima-75ba77245">
+    href="https://www.linkedin.com/in/allanlima64">
     <img title="LinkedIn" alt="Allan's LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a
@@ -51,6 +76,6 @@ Allan is 16 years old and is a just another programming student. He likes to lea
   <a
     target="_blank"
     href="mailto:allandelima64@hotmail.com">
-    <img title="Outlook" alt="Allan's outlook email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+    <img title="Proton" alt="Allan's proton email" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=protonmail&logoColor=white">
   </a>
 </div>
