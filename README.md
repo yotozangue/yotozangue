@@ -75,7 +75,7 @@ allandelima@proton.me
   </a>
   <a
     target="_blank"
-    href="mailto:allandelima64@hotmail.com">
+    href="mailto:allandelima@proton.me">
     <img title="Proton" alt="Allan's proton email" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=protonmail&logoColor=white">
   </a>
 </div>
