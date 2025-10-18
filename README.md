@@ -2,7 +2,7 @@
 
 ### Who is Allan?
 
-Allan Lima, 18, is a programming student with a love for learning new technologies and music. He has expertise in Linux systems, enjoys working with servers and networks, and is currently managing the **Reintegra** project. Allan is available for freelance contracts and eager to take on new opportunities.
+Allan Lima, 19, is a programming student with a love for learning new technologies and music. He has expertise in Linux systems, enjoys working with servers and networks.
 
 And yes, that's me, the boy in the picture.
 
@@ -18,7 +18,7 @@ allandelima@proton.me
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,nodejs,php,arduino,cpp,ts,discordjs,mysql,mongo,prisma" />
+    <img src="https://skillicons.dev/icons?i=java,py,nodejs,php,arduino,cpp,ts,discordjs,mysql,mongo" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,androidstudio,laravel,sass" />
